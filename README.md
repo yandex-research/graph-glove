@@ -70,7 +70,7 @@ Training does not scale infinitely: once you find that trainer "receives a new b
 You can explore the trained embeddings using [this notebook](./scripts/demo_evaluate.ipynb). By default, it works with a pre-trained model that was obtained on 50K most frequent tokens from wikipedia 2017 with distance-based loss. However, you can seamlessly replace that pre-trained model with the one you trained in the previous section.
 
 ### Contacts
-For any issues with running the code or questions about our work, please create an issue or contact us [by email](mryabinin@hse.ru).
+For any issues with running the code or questions about our work, please create an issue or contact us [by email](mailto:mryabinin@hse.ru).
 
 ### References
 If you find this repository useful, please cite the paper:
